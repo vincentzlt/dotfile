@@ -1,0 +1,25 @@
+{
+	"load_extensions": {
+		"toggle_all_line_numbers/main": true,
+		"codefolding/main": true,
+		"code_prettify/code_prettify": true,
+		"nbextensions_configurator/config_menu/main": true,
+		"contrib_nbextensions_help_item/main": true,
+		"comment-uncomment/main": true
+	},
+	"Cell": {
+		"cm_config": {
+			"lineNumbers": true
+		}
+	},
+	"MarkdownCell": {
+		"cm_config": {
+			"lineWrapping": true
+		}
+	},
+	"CodeCell": {
+		"cm_config": {
+			"lineWrapping": true
+		}
+	}
+}
